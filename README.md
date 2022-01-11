@@ -1,1 +1,1 @@
-# Kuraray-App
+# Kuraray-App-Frontend.
